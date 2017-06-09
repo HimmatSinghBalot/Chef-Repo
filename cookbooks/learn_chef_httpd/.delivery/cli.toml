@@ -1,0 +1,7 @@
+server = "devops-virtusams-8ozhwfh9yrii0al9.us-east-1.opsworks-cm.io"
+api_protocol = "https"
+user = "himmatb@virtusapolaris.com"
+enterprise = "default"
+organization = "Virtusams"
+git_port = "8989"
+pipeline = "master"

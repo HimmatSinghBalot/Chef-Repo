@@ -1,0 +1,11 @@
+{
+    "name": "build-server",
+    "description": "Role to configure build server for teamcity,Go and Nuget",
+    "chef_type": "role",
+    "json_class": "Chef::Role",
+    "default_attributes": {},
+    "override_attributes": {},
+    "run_list":[
+        "recipe[build-server]"
+    ]
+}
